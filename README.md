@@ -1,7 +1,6 @@
 ## 作者信息
 
 - **姓名**: Chenxiao
-- **邮箱**: chenxiao1212@foxmail.com
 - **单位**: UCAS
 - **日期地点**: 2023.11.04 at Qingdao, China
 
